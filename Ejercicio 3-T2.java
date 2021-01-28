@@ -9,6 +9,8 @@ public class validaclave {
 		String username;
 		String password;
 		String validaclave;
+		
+		System.out.println("ESTO ES UNA PRUEBA");
 
 		//Pedimos datos por pantalla.
 		System.out.println("Introduzca el usuario: ");
